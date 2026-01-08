@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "source": "WHO",
+    "version": "ICD-10",
+    "extracted_on": "2024-01-01"
+  },
+  "data": [
+    {
+      "code": "I10",
+      "description": "Essential hypertension"
+    },
+    {
+      "code": "E11",
+      "description": "Type 2 diabetes mellitus"
+    },
+    {
+      "code": "I25",
+      "description": "Chronic ischemic heart disease"
+    },
+    {
+      "code": "J45",
+      "description": "Asthma"
+    },
+    {
+      "code": "I63",
+      "description": "Cerebral infarction"
+    },
+    {
+      "code": "N18",
+      "description": "Chronic kidney disease"
+    },
+    {
+      "code": "E78",
+      "description": "Disorders of lipoprotein metabolism"
+    },
+    {
+      "code": "I21",
+      "description": "Acute myocardial infarction"
+    },
+    {
+      "code": "J44",
+      "description": "Chronic obstructive pulmonary disease"
+    }
+  ]
+}

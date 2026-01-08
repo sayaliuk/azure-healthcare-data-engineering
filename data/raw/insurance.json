@@ -1,0 +1,23 @@
+[
+  {
+    "insurance_id": "INS01",
+    "provider_name": "United Health Services",
+    "plan_type": "Premium",
+    "coverage_percent": 90,
+    "country": "USA"
+  },
+  {
+    "insurance_id": "INS02",
+    "provider_name": "Blue Cross",
+    "plan_type": "Standard",
+    "coverage_percent": 75,
+    "country": "USA"
+  },
+  {
+    "insurance_id": "INS03",
+    "provider_name": "Aetna",
+    "plan_type": "Basic",
+    "coverage_percent": 60,
+    "country": "USA"
+  }
+]
